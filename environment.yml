@@ -3,47 +3,13 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - _libgcc_mutex=0.1
-  - ca-certificates=2020.6.24
-  - certifi=2020.6.20
-  - ld_impl_linux-64=2.33.1
-  - libedit=3.1.20191231
-  - libffi=3.3
-  - libgcc-ng=9.1.0
-  - libstdcxx-ng=9.1.0
-  - ncurses=6.2
-  - openssl=1.1.1g
-  - pip=20.1.1
-  - python=3.7.7
-  - readline=8.0
-  - setuptools=49.2.0
-  - sqlite=3.32.3
-  - tk=8.6.10
-  - wheel=0.34.2
-  - xz=5.2.5
-  - zlib=1.2.11
+  - python=3.7
   - pip:
-    - cycler==0.10.0
-    - decorator==4.4.2
     - dowhy==0.4
-    - joblib==0.16.0
-    - kiwisolver==1.2.0
-    - matplotlib==3.3.0
-    - mpmath==1.1.0
-    - networkx==2.4
-    - numpy==1.19.1
-    - pandas==1.1.0
-    - patsy==0.5.1
-    - pillow==7.2.0
-    - pydot==1.4.1
-    - pyparsing==2.4.7
-    - python-dateutil==2.8.1
-    - pytz==2020.1
-    - scikit-learn==0.23.2
-    - scipy==1.5.2
-    - six==1.15.0
-    - statsmodels==0.11.1
-    - sympy==1.6.1
-    - threadpoolctl==2.1.0
-prefix: /root/my-conda-envs/causality2
+    - matplotlib==3.3
+    - numpy==1.19
+    - pandas==1.1
+    - scikit-learn==0.23
+    - scipy==1.5
+    - statsmodels==0.11
 
