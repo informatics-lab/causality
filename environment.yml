@@ -4,6 +4,8 @@ channels:
   - defaults
 dependencies:
   - python=3.7
+  - pip=20.2
+  - iris=2.2
   - pip:
     - dowhy==0.4
     - matplotlib==3.3
