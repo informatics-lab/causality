@@ -9,7 +9,7 @@ Teleconnections are sources of predictability for regional weather and climate b
 
 
 Example notebooks:
-- Scenario A - Common Driver Bias
-- Scenario B - [Mediator Analysis](notebooks/exampleB_mediator.ipynb)
-- Scenario C - Direct and Indirect Pathways
-- Scenario D - Common Effect Bias
+- Example 1 - Common Driver Bias
+- Example 2 - [Mediator Analysis](notebooks/exampleB_mediator.ipynb)
+- Example 3 - Direct and Indirect Pathways
+- Example 4 - Common Effect Bias
