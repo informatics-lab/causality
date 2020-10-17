@@ -1,0 +1,18 @@
+name: causality2
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - pip=20.2
+  - iris=2.4
+  - nc-time-axis=1.2
+  - pip:
+    - dowhy==0.4
+    - matplotlib==3.3
+    - numpy==1.19
+    - pandas==1.1
+    - scikit-learn==0.23
+    - scipy==1.5
+    - statsmodels==0.11
+
