@@ -12,4 +12,4 @@ Example notebooks:
 - Example 1 - [Common Driver Bias](notebooks/example1_common_driver.ipynb)
 - Example 2 - [Mediator Analysis](notebooks/example2_mediator.ipynb)
 - Example 3 - [Direct and Indirect Pathways](notebooks/example3_indirect_path.ipynb)
-- Example 4 - [Common Effect Bias](notebooks/example4_common_effect.ipynb)
+- Example 4 - [Common Effect Bias](notebooks/example4_collider.ipynb)
