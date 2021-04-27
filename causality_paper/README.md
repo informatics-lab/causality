@@ -1,7 +1,7 @@
 #[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/informatics-lab/causality/master)
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/informatics-lab/causality/tree/sam_revised_notebooks)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/informatics-lab/causality/sam_revised_notebooks)
 
 # Causal Inference for Climate Analysis
 
