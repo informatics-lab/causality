@@ -12,7 +12,8 @@ Example notebooks:
 - Example 1 - [Common Drivers](notebooks/example1_common_drivers.ipynb)
 - Example 2 - [Mediators](notebooks/example2_mediators.ipynb)
 - Example 3 - [Direct and Indirect Pathways](notebooks/example3_indirect_path.ipynb)
-- Example 4 - [Common Effects](notebooks/example4_common_effects.ipynb)
+- Example 4 - [Blocking the right paths](notebooks/example4_blocking_paths.ipynb)
+- Example 5 - [Non-linear example](notebooks/example5_nonlinear.ipynb)
 
 Data sources:
 
